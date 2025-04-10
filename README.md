@@ -36,8 +36,6 @@ la primera parte de luz y sombra
         <p>–¿La que trae saya de terciopelo negro con adornos azules y velo de encaje negro?</p>
         <p>–No, ésa es Sebastiana, la hermana mayor. La que viene detrás con una saya de terciopelo violeta, guarniciones de raso blanco y mantilla de encaje blanco, es Aureliana.</p>
         <p>¡No creo que haya habido nunca mujer más hermosa! Un cuerpo elegante y gallardo, una blancura maravillosa, ojos que brillaban como soles, labios divinamente formados que cubrían dientes de perlas... y por último sin igual donaire y gracia. Subió inmediatamente al balcón en que yo estaba, rodeada por un grupo de jóvenes que como mariposas giraban en torno suyo. Los saludos, las sonrisas, las miradas tiernas, los elogios más apasionados eran para Aureliana. Sebastiana era también muy bella, pero su hermana arrebataba y hacía olvidar a todas las demás. Su gracia, sus movimientos elegantes, su angelical sonrisa y mirada, ya lánguida, ya viva, alegre o sentimental, todo en Aureliana encantaba.</p>
-        <p>Volví con las Hernández a su casa, pero era tal la impresión que Aureliana me había causado, que no podía apartar mi vista de su precioso rostro. Enseñada a que generalmente las demás mujeres la mirasen con envidia, la hermosa coqueta comprendió mi sencilla admiración, me la agradeció, y llamándome a su lado, me hizo mil cariños, halagándome con afectuosas palabras. Al tiempo de retirarse a su cuarto me llevó consigo, diciendo que me tomaba bajo su protección durante mi permanencia en Bogotá.</p>
-        <p>El cuarto estaba lujosamente amoblado. Sobre las mesas se veían los regalos que le ha–</p>
       </div>
     </body>
   </text>
